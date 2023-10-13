@@ -1,4 +1,3 @@
-const { trace } = require("../../routes/hotels");
 const Hotel = require("./../../models/hotels");
 const cloudinary = require("cloudinary").v2;
 
